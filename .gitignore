@@ -6,6 +6,8 @@
 # Node artifact files
 src/back_end/node_modules/
 src/back_end/dist/
+src/backend/node_modules
+src/frontend/node_modules
 
 # Compiled Java class files
 *.class
